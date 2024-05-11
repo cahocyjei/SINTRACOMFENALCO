@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OT Services v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-15 05:08:11+0000\n"
+"Last-Translator: admin <vhoanggiavuong@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: ot_agency.php:0
+#@ ot_agency
+msgid "OT Agancy"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: ot_agency.php:0
+#@ ot_agency
+msgid "http://oceanthemes.net/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: ot_agency.php:0
+#@ ot_agency
+msgid "Declares a plugin that will create a custom post type displaying portfolio."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: ot_agency.php:0
+#@ ot_agancy
+msgid "OceanThemes Team"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: ot_agency.php:0
+#@ ot_agency
+msgid "1.0"
+msgstr ""
+
+#: ot_agancy.php:32
+#@ ot_agency
+msgid "Agancy"
+msgstr ""
+
+#: ot_agency.php:34
+#@ ot_agency
+msgid "Agency"
+msgstr ""
+
+#: ot_agancy.php:36
+#@ ot_agency
+msgid "Add Agancy"
+msgstr ""
+
+#: ot_agency.php:38
+#: ot_agency.php:42
+#@ ot_agency
+msgid "Add new agency"
+msgstr ""
+
+#: ot_agency.php:40
+#@ ot_agency
+msgid "Edit agency"
+msgstr ""
+
+#: ot_agency.php:44
+#@ ot_agency
+msgid "All Agency"
+msgstr ""
+
+#: ot_agency.php:46
+#@ ot_agency
+msgid "View Agency"
+msgstr ""
+
+#: ot_agency.php:48
+#@ ot_agency
+msgid "Search agency"
+msgstr ""
+
+#: ot_agency.php:50
+#@ ot_agency
+msgid "No agency found.."
+msgstr ""
+
+#: ot_agency.php:52
+#@ ot_agency
+msgid "No agency found in Trash."
+msgstr ""
+
+#: ot_agency.php:86
+#: ot_agency.php:88
+#: ot_agency.php:98
+#@ ot_agency
+msgid "Category Agency"
+msgstr ""
+
+#: ot_agency.php:90
+#@ ot_agency
+msgid "Search Category Agency"
+msgstr ""
+
+#: ot_agency.php:92
+#@ ot_agency
+msgid "All Category Agency"
+msgstr ""
+
+#: ot_agency.php:94
+#@ ot_agency
+msgid "Edit Category Agency"
+msgstr ""
+
+#: ot_agency.php:96
+#@ ot_agency
+msgid "Add new Category Agency"
+msgstr ""
+
